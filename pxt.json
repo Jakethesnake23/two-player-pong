@@ -1,5 +1,5 @@
 {
-    "name": "two player pong",
+    "name": "pong practice",
     "description": "",
     "dependencies": {
         "device": "*"
